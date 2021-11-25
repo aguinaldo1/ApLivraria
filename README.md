@@ -10,8 +10,12 @@ Trata-se de uma aplicação (backend) em java de uma livraria
     
     
     
-    o java por se tratar de uma linguagem que tem forte caracteristica com o conceitos do paradgma de orientação a objetos (OO), conseguimos fazer aqui nesse exemplo um compilado de como essa estrutura ocorre, pois para cada necessidade importante desse app temos objetos que interagem entre-si e que são compostos por estados(atributos) e comportamentos(métodos).
-    Com o Encapsulamento podemos esconder todos os atributos de nossas classes (deixando os privete) 
-    A interface de classe como os métodos públicos existentes em suas classes são a unica maneira de interagir com os objetos da classe, por se tratar de um código encapsulado.
-    Faz-se uso aqui dos métodos getters e setters pois todos os atributos de nossas classes foram private como mensionado acima no encapsulamento; Os getters e setters possibilita o acesso dos atributos de forma controlada.
-    Usa-se também mais de um construtor em algum caso, isso é conhecido como sobrecarga (overloaded) isso também é uma boa prática 
+        . o java por se tratar de uma linguagem que tem forte caracteristica com o conceitos do paradgma de orientação a objetos (OO), 
+    conseguimos fazer aqui nesse exemplo um compilado de como essa estrutura ocorre, pois para cada necessidade importante desse app 
+    temos objetos que interagem entre-si e que são compostos por estados(atributos) e comportamentos(métodos).
+        . Com o Encapsulamento podemos esconder todos os atributos de nossas classes (deixando os privete) 
+        . A interface de classe como os métodos públicos existentes em suas classes são a unica maneira de interagir com os objetos 
+     da classe, por se tratar de um código encapsulado.
+        . Faz-se uso aqui dos métodos getters e setters pois todos os atributos de nossas classes foram private como mensionado 
+     acima no encapsulamento; Os getters e setters possibilita o acesso dos atributos de forma controlada.
+         . Usa-se também mais de um construtor em algum caso, isso é conhecido como sobrecarga (overloaded) isso também é uma boa prática 
